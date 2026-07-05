@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "g001",
+    "english": "Alcohol",
+    "kikuyu": "Njohi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g002",
+    "english": "Animal",
+    "kikuyu": "Nyamu",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g003",
+    "english": "Attack",
+    "kikuyu": "Thariko",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g004",
+    "english": "East",
+    "kikuyu": "Ruguru",
+    "category": "directions",
+    "pos": "noun"
+  },
+  {
+    "id": "g005",
+    "english": "Good",
+    "kikuyu": "Mwega",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g006",
+    "english": "Help",
+    "kikuyu": "Uteithio",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g007",
+    "english": "Know",
+    "kikuyu": "Menya",
+    "category": "general",
+    "pos": "verb"
+  },
+  {
+    "id": "g008",
+    "english": "Probably",
+    "kikuyu": "Angikoruo",
+    "category": "general",
+    "pos": "adverb"
+  },
+  {
+    "id": "g009",
+    "english": "Right",
+    "kikuyu": "Ma",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g010",
+    "english": "West",
+    "kikuyu": "Itherero",
+    "category": "directions",
+    "pos": "noun"
+  },
+  {
+    "id": "g011",
+    "english": "What",
+    "kikuyu": "Atia",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g012",
+    "english": "Purpose",
+    "kikuyu": "Bata",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g013",
+    "english": "Whistle",
+    "kikuyu": "Biringi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g014",
+    "english": "Country",
+    "kikuyu": "Bururi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g015",
+    "english": "Trumpet",
+    "kikuyu": "Coro",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g016",
+    "english": "Feast",
+    "kikuyu": "Giathi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g017",
+    "english": "Act",
+    "kikuyu": "Giiko",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g018",
+    "english": "Well",
+    "kikuyu": "Githima, Ithima,pl",
+    "category": "general",
+    "pos": "adjective"
+  },
+  {
+    "id": "g019",
+    "english": "Charm",
+    "kikuyu": "Githitu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g020",
+    "english": "Roots",
+    "kikuyu": "Gitina",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g021",
+    "english": "Fear",
+    "kikuyu": "Guoya",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g022",
+    "english": "Coward",
+    "kikuyu": "Kiguoya",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g023",
+    "english": "Strength",
+    "kikuyu": "hinya",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g024",
+    "english": "Inheritance",
+    "kikuyu": "Igai",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g025",
+    "english": "Ritual",
+    "kikuyu": "Magongona",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g026",
+    "english": "Ceremony",
+    "kikuyu": "Magongona",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g027",
+    "english": "Banana wrapping",
+    "kikuyu": "Igoto",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g028",
+    "english": "Sheet",
+    "kikuyu": "Ihengere",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g029",
+    "english": "Stone",
+    "kikuyu": "Ihiga. Mahiga, pl",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g030",
+    "english": "Period",
+    "kikuyu": "Ihinda",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g031",
+    "english": "Pregnancy",
+    "kikuyu": "Ihu, Mahu, pl",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g032",
+    "english": "Pit",
+    "kikuyu": "Irima",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g033",
+    "english": "Hole",
+    "kikuyu": "Irima, Marima, pl.",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g034",
+    "english": "Chance",
+    "kikuyu": "Kahindâ",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g035",
+    "english": "Echo",
+    "kikuyu": "Kayu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g036",
+    "english": "Chicken house",
+    "kikuyu": "Kiaga",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g037",
+    "english": "Noose",
+    "kikuyu": "Kiana",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g038",
+    "english": "Chicken",
+    "kikuyu": "nguku",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g039",
+    "english": "Container",
+    "kikuyu": "Kiano",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g040",
+    "english": "Rubbish",
+    "kikuyu": "Kiara or Ciara, pl",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g041",
+    "english": "Sorrow",
+    "kikuyu": "Kieha",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g042",
+    "english": "Excuse",
+    "kikuyu": "Kigwatio example, Wìgwatie Get an excuse.",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g043",
+    "english": "Origin",
+    "kikuyu": "Kihumo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g044",
+    "english": "Source",
+    "kikuyu": "Kihumo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g045",
+    "english": "Player",
+    "kikuyu": "Muthaki",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g046",
+    "english": "Thing",
+    "kikuyu": "Kindu or Indo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g047",
+    "english": "Object",
+    "kikuyu": "Kindu or indo, pl",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g048",
+    "english": "Public",
+    "kikuyu": "Kinganga, pl",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g049",
+    "english": "Market",
+    "kikuyu": "King'aratuâ",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g050",
+    "english": "Alarm",
+    "kikuyu": "King'ora or Ing'ora, p",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g051",
+    "english": "Example",
+    "kikuyu": "Kionerêria",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g052",
+    "english": "Talk",
+    "kikuyu": "Kirira",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g053",
+    "english": "Forest",
+    "kikuyu": "Kiriti, example, Un exploited forest",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g054",
+    "english": "Active",
+    "kikuyu": "kiyo",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g055",
+    "english": "Corner",
+    "kikuyu": "Kona",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g056",
+    "english": "Lack",
+    "kikuyu": "Kwaga",
+    "category": "general",
+    "pos": "verb"
+  },
+  {
+    "id": "g057",
+    "english": "Water",
+    "kikuyu": "Mai",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g058",
+    "english": "Mystery",
+    "kikuyu": "Magegâ",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g059",
+    "english": "Lies",
+    "kikuyu": "Maheni",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g060",
+    "english": "Fancy",
+    "kikuyu": "Managi",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g061",
+    "english": "Pool of water",
+    "kikuyu": "maria",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g062",
+    "english": "Letter",
+    "kikuyu": "Marua",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g063",
+    "english": "Not clear",
+    "kikuyu": "Marundurundu",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g064",
+    "english": "Uncertain",
+    "kikuyu": "Mâthangania",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g065",
+    "english": "Wail",
+    "kikuyu": "Mbu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g066",
+    "english": "Bell",
+    "kikuyu": "Mbügi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g067",
+    "english": "Witch doctor",
+    "kikuyu": "mundu mugo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g068",
+    "english": "Stones",
+    "kikuyu": "Mbugu",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g069",
+    "english": "Thought",
+    "kikuyu": "meciria",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g070",
+    "english": "Whisper",
+    "kikuyu": "Mihehu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g071",
+    "english": "Breath",
+    "kikuyu": "Mihúmú",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g072",
+    "english": "Tribulations",
+    "kikuyu": "Minyamaro",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g073",
+    "english": "Rays",
+    "kikuyu": "Miruri",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g074",
+    "english": "Ball",
+    "kikuyu": "Mubira",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g075",
+    "english": "Slander",
+    "kikuyu": "mucene",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g076",
+    "english": "Tribulations",
+    "kikuyu": "Minyamaro",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g077",
+    "english": "Home",
+    "kikuyu": "Mucii",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g078",
+    "english": "Aroma",
+    "kikuyu": "Mücingu example, good smell of meat",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g079",
+    "english": "Sound",
+    "kikuyu": "Mugambo or Mïgambo, pl.",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g080",
+    "english": "Log",
+    "kikuyu": "Múgogo example Log of a tree",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g081",
+    "english": "Captive",
+    "kikuyu": "Mügwate",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g082",
+    "english": "Prisoner",
+    "kikuyu": "Mugwate",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g083",
+    "english": "Uninvited",
+    "kikuyu": "MúhoÍ",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g084",
+    "english": "Beggar",
+    "kikuyu": "muhoi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g085",
+    "english": "Trough",
+    "kikuyu": "Múharati",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g086",
+    "english": "Likeness",
+    "kikuyu": "Múhiâno",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g087",
+    "english": "Clan",
+    "kikuyu": "Muhiriga,  Mihirïga, pl.",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g088",
+    "english": "Ash",
+    "kikuyu": "Mühu",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g089",
+    "english": "Rumour",
+    "kikuyu": "Muhuhu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g090",
+    "english": "Man",
+    "kikuyu": "Andü, pl. Múndú",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g091",
+    "english": "Mob",
+    "kikuyu": "Múingi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g092",
+    "english": "Silt",
+    "kikuyu": "Munju e.g. silt deposits in water",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g093",
+    "english": "Luck",
+    "kikuyu": "Munyaka",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g094",
+    "english": "Friend",
+    "kikuyu": "Múrata, Arata pl",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g095",
+    "english": "Trap",
+    "kikuyu": "Mütego",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g096",
+    "english": "End",
+    "kikuyu": "Müthiâ , Mithia, pl.",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g097",
+    "english": "Accident",
+    "kikuyu": "Mútino .Mïtino, pl.",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g098",
+    "english": "Forest",
+    "kikuyu": "Mútitu",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g099",
+    "english": "Oath",
+    "kikuyu": "Muuma",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g100",
+    "english": "Fire",
+    "kikuyu": "Mwaki, Mïaki, pl.",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g101",
+    "english": "Separate",
+    "kikuyu": "Mwanya Mwanya e.g. Group of items",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g102",
+    "english": "Hole",
+    "kikuyu": "Mwanya",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g103",
+    "english": "Beehive",
+    "kikuyu": "Mwatú",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g104",
+    "english": "Chance",
+    "kikuyu": "Mweke e.g. chance to do something",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g105",
+    "english": "Hope",
+    "kikuyu": "Mwihoko",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g106",
+    "english": "Dance",
+    "kikuyu": "Ndâci",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g107",
+    "english": "Riddle",
+    "kikuyu": "Ndâi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g108",
+    "english": "Chat",
+    "kikuyu": "Ndereti",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g109",
+    "english": "Discussion",
+    "kikuyu": "Tereta, or Ndeto",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g110",
+    "english": "Challenge",
+    "kikuyu": "Nditi",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g111",
+    "english": "Smoke",
+    "kikuyu": "Ndogo",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g112",
+    "english": "Mud",
+    "kikuyu": "Ndoro",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g113",
+    "english": "Secret agreement",
+    "kikuyu": "Ndundu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g114",
+    "english": "Servant",
+    "kikuyu": "Ndungata",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g115",
+    "english": "Market",
+    "kikuyu": "Ndúnyú",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g116",
+    "english": "Hunger",
+    "kikuyu": "Ng'ârâgu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g117",
+    "english": "Bell",
+    "kikuyu": "Ngengere",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g118",
+    "english": "Bad luck",
+    "kikuyu": "ngero",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g119",
+    "english": "Assault",
+    "kikuyu": "ngero",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g120",
+    "english": "Slave",
+    "kikuyu": "Ngombo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g121",
+    "english": "Cave",
+    "kikuyu": "Ngurunga",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g122",
+    "english": "Group",
+    "kikuyu": "Ngwâtio e g. Group activity or a merry-go-round",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g123",
+    "english": "Appetite",
+    "kikuyu": "Njeme",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g124",
+    "english": "Jingles",
+    "kikuyu": "Njingiri",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g125",
+    "english": "Way",
+    "kikuyu": "Njira",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g126",
+    "english": "Air",
+    "kikuyu": "Riêra",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g127",
+    "english": "Hearth",
+    "kikuyu": "Riiko",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g128",
+    "english": "Glory",
+    "kikuyu": "Riri",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g129",
+    "english": "Radiance",
+    "kikuyu": "riri",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g130",
+    "english": "Brilliant",
+    "kikuyu": "riri",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g131",
+    "english": "Name",
+    "kikuyu": "RÍtwa",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g132",
+    "english": "Story",
+    "kikuyu": "Rügano",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g133",
+    "english": "Crumbs",
+    "kikuyu": "Ruitiki",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g134",
+    "english": "Rubbish",
+    "kikuyu": "ruitiki",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g135",
+    "english": "Dust",
+    "kikuyu": "Rukungú",
+    "category": "nature",
+    "pos": "noun"
+  },
+  {
+    "id": "g136",
+    "english": "Tribe",
+    "kikuyu": "Rúriri",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g137",
+    "english": "Race",
+    "kikuyu": "Rúruka",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g138",
+    "english": "Hide",
+    "kikuyu": "Rúúâ  Hide or skins. Njua, pl. or to hide, Kwihitha",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g139",
+    "english": "Discussion",
+    "kikuyu": "Rwario. Mïario. Pl.",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g140",
+    "english": "Unclean",
+    "kikuyu": "Thahu",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g141",
+    "english": "Taboo",
+    "kikuyu": "thahu",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g142",
+    "english": "You",
+    "kikuyu": "nie",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g143",
+    "english": "Burnt fields",
+    "kikuyu": "Hiira",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g144",
+    "english": "Ditch",
+    "kikuyu": "mitaro",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g145",
+    "english": "Trench",
+    "kikuyu": "MÍtaro",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g146",
+    "english": "Garden edge",
+    "kikuyu": "Rütere",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g147",
+    "english": "Garden",
+    "kikuyu": "Mügúnda",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g148",
+    "english": "Germinate",
+    "kikuyu": "Mera",
+    "category": "farming",
+    "pos": "verb"
+  },
+  {
+    "id": "g149",
+    "english": "Yielding",
+    "kikuyu": "Kuumia",
+    "category": "farming",
+    "pos": "verb"
+  },
+  {
+    "id": "g150",
+    "english": "Grass",
+    "kikuyu": "nyeki",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g151",
+    "english": "Leaves",
+    "kikuyu": "ihuti, mahuti ,pl.",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g152",
+    "english": "Flower",
+    "kikuyu": "mwithuka",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g153",
+    "english": "Manure",
+    "kikuyu": "thumu",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g154",
+    "english": "Weed",
+    "kikuyu": "riia",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g155",
+    "english": "Sand",
+    "kikuyu": "muthanga",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g156",
+    "english": "Soil",
+    "kikuyu": "tiiri",
+    "category": "farming",
+    "pos": "noun"
+  },
+  {
+    "id": "g157",
+    "english": "Brother",
+    "kikuyu": "muru wa nyina",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g158",
+    "english": "Cousin",
+    "kikuyu": "muihua",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g159",
+    "english": "In-Laws",
+    "kikuyu": "athoni",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g160",
+    "english": "Lady",
+    "kikuyu": "muiritu",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g161",
+    "english": "Mother",
+    "kikuyu": "maitu",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g162",
+    "english": "Parent",
+    "kikuyu": "muciari",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g163",
+    "english": "Related",
+    "kikuyu": "rurira",
+    "category": "family",
+    "pos": "adjective"
+  },
+  {
+    "id": "g164",
+    "english": "Sibling",
+    "kikuyu": "wa maitu",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g165",
+    "english": "Sister",
+    "kikuyu": "mwari wa nyina",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g166",
+    "english": "Son",
+    "kikuyu": "muriu",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g167",
+    "english": "Wife",
+    "kikuyu": "muka",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g168",
+    "english": "Daughter",
+    "kikuyu": "mwari",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g169",
+    "english": "Father to",
+    "kikuyu": "Ithe",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g170",
+    "english": "Grandfather",
+    "kikuyu": "Guka",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g171",
+    "english": "Grandmother",
+    "kikuyu": "Cucú",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g172",
+    "english": "Mother to",
+    "kikuyu": "Nyina",
+    "category": "family",
+    "pos": "noun"
+  },
+  {
+    "id": "g173",
+    "english": "Zero",
+    "kikuyu": "noti",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g174",
+    "english": "One",
+    "kikuyu": "imwe",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g175",
+    "english": "Two",
+    "kikuyu": "igiri",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g176",
+    "english": "Three",
+    "kikuyu": "ithatu",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g177",
+    "english": "Four",
+    "kikuyu": "inya",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g178",
+    "english": "Five",
+    "kikuyu": "ithano",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g179",
+    "english": "Six",
+    "kikuyu": "ithathatu",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g180",
+    "english": "Seven",
+    "kikuyu": "mugwanja",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g181",
+    "english": "Eight",
+    "kikuyu": "inyanya",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g182",
+    "english": "Nine",
+    "kikuyu": "kenda",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g183",
+    "english": "Ten",
+    "kikuyu": "ikumi",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g184",
+    "english": "Eleven",
+    "kikuyu": "ikumi na imwe",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g185",
+    "english": "Twelve",
+    "kikuyu": "ikumi na igiri",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g186",
+    "english": "Thirteen",
+    "kikuyu": "ikumi na ithatu",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g187",
+    "english": "Twenty",
+    "kikuyu": "mirongo iiri kana kibao",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g188",
+    "english": "Thirty",
+    "kikuyu": "mirongo itatu",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g189",
+    "english": "Forty",
+    "kikuyu": "mirongo ina",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g190",
+    "english": "Fifty",
+    "kikuyu": "mirongo itano",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g191",
+    "english": "Sixty",
+    "kikuyu": "mirongo itandatu",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g192",
+    "english": "Seventy",
+    "kikuyu": "mirongo mugwanja",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g193",
+    "english": "Eighty",
+    "kikuyu": "mirongo inana",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g194",
+    "english": "Ninety",
+    "kikuyu": "mirongo kenda",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g195",
+    "english": "Hundred",
+    "kikuyu": "igana rimwe",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g196",
+    "english": "Thousand",
+    "kikuyu": "ngiri imwe",
+    "category": "numbers",
+    "pos": "number"
+  },
+  {
+    "id": "g197",
+    "english": "Week",
+    "kikuyu": "kiumia",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g198",
+    "english": "Night",
+    "kikuyu": "utuku",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g199",
+    "english": "Morning",
+    "kikuyu": "kiroko",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g200",
+    "english": "Clock",
+    "kikuyu": "thaa",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g201",
+    "english": "Day",
+    "kikuyu": "muthenya",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g202",
+    "english": "Cold",
+    "kikuyu": "heho",
+    "category": "weather",
+    "pos": "adjective"
+  },
+  {
+    "id": "g203",
+    "english": "East",
+    "kikuyu": "irathiro",
+    "category": "directions",
+    "pos": "noun"
+  },
+  {
+    "id": "g204",
+    "english": "West",
+    "kikuyu": "ithuiro",
+    "category": "directions",
+    "pos": "noun"
+  },
+  {
+    "id": "g205",
+    "english": "North",
+    "kikuyu": "ruguru",
+    "category": "directions",
+    "pos": "noun"
+  },
+  {
+    "id": "g206",
+    "english": "South",
+    "kikuyu": "itherero",
+    "category": "directions",
+    "pos": "noun"
+  },
+  {
+    "id": "g207",
+    "english": "Hour",
+    "kikuyu": "ithaa",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g208",
+    "english": "Days",
+    "kikuyu": "nduku",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g209",
+    "english": "Minute",
+    "kikuyu": "ndagika",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g210",
+    "english": "Season",
+    "kikuyu": "kimera",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g211",
+    "english": "Afternoon",
+    "kikuyu": "miaraho",
+    "category": "time",
+    "pos": "noun"
+  },
+  {
+    "id": "g212",
+    "english": "Bullet",
+    "kikuyu": "rithati",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g213",
+    "english": "Courage",
+    "kikuyu": "ucamba",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g214",
+    "english": "Enemy",
+    "kikuyu": "thu",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g215",
+    "english": "Gun",
+    "kikuyu": "mucinga",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g216",
+    "english": "Machete",
+    "kikuyu": "ruhiu",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g217",
+    "english": "Pocketknife",
+    "kikuyu": "kibindo /kimindo",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g218",
+    "english": "Quarrel",
+    "kikuyu": "haro",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g219",
+    "english": "Quiver",
+    "kikuyu": "thiaka",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g220",
+    "english": "Scabbard",
+    "kikuyu": "njora",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g221",
+    "english": "Sharp stick",
+    "kikuyu": "njibe",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g222",
+    "english": "Soldier",
+    "kikuyu": "muthigari",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g223",
+    "english": "Sword",
+    "kikuyu": "ruhiu rwa njora",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g224",
+    "english": "War",
+    "kikuyu": "Mbaara",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g225",
+    "english": "Fighting",
+    "kikuyu": "Mbaara",
+    "category": "war_weapons",
+    "pos": "noun"
+  },
+  {
+    "id": "g226",
+    "english": "Cloud",
+    "kikuyu": "itu",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g227",
+    "english": "Dew",
+    "kikuyu": "ime",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g228",
+    "english": "Frost",
+    "kikuyu": "mbaa",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g229",
+    "english": "Hail stones",
+    "kikuyu": "mbura ya mbembe",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g230",
+    "english": "Lightning",
+    "kikuyu": "ruheni",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g231",
+    "english": "Mist",
+    "kikuyu": "thatu",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g232",
+    "english": "Rain",
+    "kikuyu": "mbura",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g233",
+    "english": "Rainbow",
+    "kikuyu": "mukunga mbura",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g234",
+    "english": "Rumble",
+    "kikuyu": "ruruma",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g235",
+    "english": "Thunder",
+    "kikuyu": "ngwa",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g236",
+    "english": "Thunder rumbling",
+    "kikuyu": "irurumi",
+    "category": "weather",
+    "pos": "noun"
+  },
+  {
+    "id": "g237",
+    "english": "Business",
+    "kikuyu": "biacara",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g238",
+    "english": "Casual job",
+    "kikuyu": "kurimia",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g239",
+    "english": "Employed",
+    "kikuyu": "kwandikwo",
+    "category": "business",
+    "pos": "adjective"
+  },
+  {
+    "id": "g240",
+    "english": "Hotel",
+    "kikuyu": "mukawa",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g241",
+    "english": "Goods",
+    "kikuyu": "thuguri",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g242",
+    "english": "Shop",
+    "kikuyu": "nduka",
+    "category": "business",
+    "pos": "noun"
+  },
+  {
+    "id": "g243",
+    "english": "All",
+    "kikuyu": "Othe",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g244",
+    "english": "He",
+    "kikuyu": "ucio",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g245",
+    "english": "His",
+    "kikuyu": "ya uria",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g246",
+    "english": "Hers",
+    "kikuyu": "ya uria",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g247",
+    "english": "I",
+    "kikuyu": "niî",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g248",
+    "english": "It's",
+    "kikuyu": "yayo",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g249",
+    "english": "Me",
+    "kikuyu": "niî",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g250",
+    "english": "Mine",
+    "kikuyu": "yakwa",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g251",
+    "english": "Our",
+    "kikuyu": "iitu",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g252",
+    "english": "Ours",
+    "kikuyu": "ciitu",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g253",
+    "english": "That",
+    "kikuyu": "îrîa",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g254",
+    "english": "Theirs",
+    "kikuyu": "Ciao",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g255",
+    "english": "These",
+    "kikuyu": "Ici",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g256",
+    "english": "Centre",
+    "kikuyu": "gatagati",
+    "category": "grammar",
+    "pos": "noun"
+  },
+  {
+    "id": "g257",
+    "english": "Here",
+    "kikuyu": "haha",
+    "category": "grammar",
+    "pos": "adverb"
+  },
+  {
+    "id": "g258",
+    "english": "With",
+    "kikuyu": "Hamwe",
+    "category": "grammar",
+    "pos": "preposition"
+  },
+  {
+    "id": "g259",
+    "english": "Up",
+    "kikuyu": "iguru",
+    "category": "grammar",
+    "pos": "preposition"
+  },
+  {
+    "id": "g260",
+    "english": "Below",
+    "kikuyu": "mûhuro",
+    "category": "grammar",
+    "pos": "preposition"
+  },
+  {
+    "id": "g261",
+    "english": "Side",
+    "kikuyu": "mwena",
+    "category": "grammar",
+    "pos": "noun"
+  },
+  {
+    "id": "g262",
+    "english": "Because",
+    "kikuyu": "nitondu",
+    "category": "grammar",
+    "pos": "conjunction"
+  },
+  {
+    "id": "g263",
+    "english": "Under",
+    "kikuyu": "rungu",
+    "category": "grammar",
+    "pos": "preposition"
+  },
+  {
+    "id": "g264",
+    "english": "Inside",
+    "kikuyu": "thîinî",
+    "category": "grammar",
+    "pos": "preposition"
+  },
+  {
+    "id": "g265",
+    "english": "If",
+    "kikuyu": "koruo",
+    "category": "grammar",
+    "pos": "conjunction"
+  },
+  {
+    "id": "g266",
+    "english": "But",
+    "kikuyu": "Kana / Korúo",
+    "category": "grammar",
+    "pos": "conjunction"
+  },
+  {
+    "id": "g267",
+    "english": "Or",
+    "kikuyu": "Kana / Koruo",
+    "category": "grammar",
+    "pos": "conjunction"
+  },
+  {
+    "id": "g268",
+    "english": "How",
+    "kikuyu": "Atia",
+    "category": "grammar",
+    "pos": "adverb"
+  },
+  {
+    "id": "g269",
+    "english": "All",
+    "kikuyu": "Ciothe",
+    "category": "pronouns",
+    "pos": "pronoun"
+  },
+  {
+    "id": "g270",
+    "english": "Could",
+    "kikuyu": "Githi",
+    "category": "grammar",
+    "pos": "verb"
+  },
+  {
+    "id": "g271",
+    "english": "Here",
+    "kikuyu": "Guku",
+    "category": "grammar",
+    "pos": "adverb"
+  },
+  {
+    "id": "g272",
+    "english": "Fat",
+    "kikuyu": "Münoru, Noria, v.",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g273",
+    "english": "Thin",
+    "kikuyu": "Münyuko Thin",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g274",
+    "english": "Tall",
+    "kikuyu": "Mûraihu",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g275",
+    "english": "Long",
+    "kikuyu": "Mûraihu or Raihia, v.",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g276",
+    "english": "Generous",
+    "kikuyu": "Mútânâ",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g277",
+    "english": "Beautiful",
+    "kikuyu": "Múthaka orThakaria, v.",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g278",
+    "english": "Rich",
+    "kikuyu": "MÍitongu",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g279",
+    "english": "Huge",
+    "kikuyu": "Mútungu or Tunguhia, v.",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g280",
+    "english": "Bad",
+    "kikuyu": "Müúru",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g281",
+    "english": "Different",
+    "kikuyu": "Mwanya",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g282",
+    "english": "Good",
+    "kikuyu": "Mwega Good (man), Njega (kïndü), adj.",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g283",
+    "english": "Owner",
+    "kikuyu": "Mwene",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g284",
+    "english": "Itch",
+    "kikuyu": "MwÍthüa",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g285",
+    "english": "Pride",
+    "kikuyu": "Mwîtîo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g286",
+    "english": "Fast",
+    "kikuyu": "Narua",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g287",
+    "english": "Thirst",
+    "kikuyu": "Ng'âra Ng'aria, v.",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g288",
+    "english": "Doubt",
+    "kikuyu": "Ngânjâ",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g289",
+    "english": "Bent",
+    "kikuyu": "Ngoci",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g290",
+    "english": "Crooked",
+    "kikuyu": "Ngoci",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g291",
+    "english": "Fame",
+    "kikuyu": "Ngogâ kana ngumo",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g292",
+    "english": "Pride",
+    "kikuyu": "Ngotoko",
+    "category": "general",
+    "pos": "noun"
+  },
+  {
+    "id": "g293",
+    "english": "Short",
+    "kikuyu": "Nguhi",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g294",
+    "english": "Finished",
+    "kikuyu": "nî thiru",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g295",
+    "english": "Outside",
+    "kikuyu": "nja",
+    "category": "grammar",
+    "pos": "adverb"
+  },
+  {
+    "id": "g296",
+    "english": "Courageous",
+    "kikuyu": "Njamba",
+    "category": "war_weapons",
+    "pos": "adjective"
+  },
+  {
+    "id": "g297",
+    "english": "Raw",
+    "kikuyu": "Njîthi",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g298",
+    "english": "Unripe",
+    "kikuyu": "Njúa e.g Green (maize, peas, beans)",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g299",
+    "english": "Many",
+    "kikuyu": "Nyingi",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g300",
+    "english": "Small",
+    "kikuyu": "nyinyi",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g301",
+    "english": "Slimy",
+    "kikuyu": "Nyororoka",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g302",
+    "english": "Far",
+    "kikuyu": "Raihiriria",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g303",
+    "english": "Much",
+    "kikuyu": "Riita",
+    "category": "adjectives",
+    "pos": "adjective"
+  },
+  {
+    "id": "g304",
+    "english": "Straight",
+    "kikuyu": "Rúngara",
+    "category": "adjectives",
+    "pos": "adjective"
+  }
+]
